@@ -1,0 +1,32 @@
+body{
+    background: rgba(0, 255, 0, 0.433);
+}
+
+#score{
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+#timer{
+    font-size: 30px;
+    float:right ;
+    margin-right: 80px;
+}
+
+#sketch_to_be_drawn{
+    color: red;
+    font-style: bold;
+    font-size: 30px;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top:50px;
+}
